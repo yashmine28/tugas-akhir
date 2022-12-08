@@ -1,0 +1,8 @@
+demoji==1.1.0
+emoji==1.7.0
+joblib==1.2.0
+nltk==3.7
+regex==2022.10.31
+Sastrawi==1.0.1
+numpy==1.23.5
+Scikit-learn==0.22
